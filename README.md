@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.corenexis.com/f/CR5JZhEcnj5.gif" width="60%">
+<img src="https://cdn.corenexis.com/f/CR5JZhEcnj5.gif" width="45%">
 <br><br>
 
 # 👋 Hey, I'm Sathpriyan
